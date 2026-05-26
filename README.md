@@ -20,3 +20,7 @@ About me:
 ### Tools
 - Git
 - GitHub
+- VS Code
+- Command Line Interface
+- Chrome DevTools
+- Figma
