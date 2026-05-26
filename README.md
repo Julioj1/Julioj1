@@ -12,7 +12,7 @@ About me:
 ## Tech Stack:
 
 ### Languages
-- JavaScript
+- JavaScript, HTML5, CSS3, PostgreSQ, React
 
 ### Frameworks & Libraries
 - Node.js
