@@ -12,10 +12,10 @@ About me:
 ## Tech Stack:
 
 ### Languages
-- JavaScript, HTML5, CSS3, PostgreSQ, React
+- JavaScript (ES6+), HTML5, CSS3, PostgreSQ, React
 
 ### Frameworks & Libraries
-- Node.js
+- Node.js, REST APIs, Express.js, React
 
 ### Tools
 - Git
